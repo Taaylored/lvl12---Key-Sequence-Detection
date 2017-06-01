@@ -77,6 +77,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/Raptorize-Kit\/jquery.raptorize.1.0-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/Raptorize-Kit\/jquery.raptorize.1.0-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/Raptorize-Kit\/jquery.raptorize.1.0.js": {
 		"ft": 64,
 		"mi": 1,
@@ -122,7 +131,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 517963782,
-	"displayValue": "lvl12 - Key Sequence Detection",
+	"displayValue": "RAAARRR",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-cryingJordan"
 	},
