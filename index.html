@@ -7,6 +7,7 @@
 	<!-- jQuery: Grab Google CDN jQuery. fall back to local if necessary -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 	<script>!window.jQuery && document.write('<script src="jquery-1.4.1.min.js"><\/script>')</script>
+
 	
 	<!-- The raptorize file  -->
 	<script src="jquery.raptorize.1.0.js"></script>
@@ -24,7 +25,7 @@
 <body>
 <script>
 const pressed = [];
-const secretCode = 'wesbos';
+const secretCode = 'manikoth';
 
 window.addEventListener('keyup', (e) => {
   console.log(e.key);
@@ -32,17 +33,29 @@ window.addEventListener('keyup', (e) => {
   pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
   if (pressed.join('').includes(secretCode)) {
     console.log('DING DING!');
-    cornify_add();
+      alert('The legend and final boss in those old Konami games ;). Unlock the beast with the final code. ');
+      
+      
+      
+      
+      
   }
   console.log(pressed);
 });
     
     
  
-
-    
     
 </script>
-    <div class="button">Whats the password?</div>
+    <div class="button">What's the password?</div>
 </body>
+
+<style>
+    div{
+        text-align: center;
+        padding-top: 10%;
+        font-family: monospace;
+        font-size: 150px;
+    }
+    </style>
 </html>

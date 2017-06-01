@@ -61,6 +61,59 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/Raptorize-Kit\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Raptorize-Kit\/index.html",
+		"oF": 0
+		},
+	"\/Raptorize-Kit\/jquery-1.4.1.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/Raptorize-Kit\/jquery-1.4.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/Raptorize-Kit\/jquery.raptorize.1.0.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/Raptorize-Kit\/jquery.raptorize.1.0-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/Raptorize-Kit\/raptor-psd.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Raptorize-Kit\/raptor-psd.psd",
+		"oF": 0
+		},
+	"\/Raptorize-Kit\/raptor-sound.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Raptorize-Kit\/raptor-sound.mp3",
+		"oF": 0
+		},
+	"\/Raptorize-Kit\/raptor-sound.ogg": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Raptorize-Kit\/raptor-sound.ogg",
+		"oF": 0
+		},
+	"\/Raptorize-Kit\/raptor.png": {
+		"ft": 32768,
+		"iS": 116108,
+		"oA": 0,
+		"oAP": "\/Raptorize-Kit\/raptor.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
